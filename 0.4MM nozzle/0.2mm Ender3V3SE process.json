@@ -1,7 +1,8 @@
 {
     "alternate_extra_wall": "1",
+    "bottom_shell_layers": "3",
     "bottom_surface_pattern": "zig-zag",
-    "brim_type": "outer_and_inner",
+    "brim_type": "brim_ears",
     "brim_width": "8",
     "default_acceleration": "0",
     "enable_support": "1",
@@ -25,7 +26,6 @@
     "raft_first_layer_density": "100%",
     "raft_first_layer_expansion": "8",
     "slow_down_layers": "2",
-    "sparse_infill_density": "0%",
     "sparse_infill_pattern": "gyroid",
     "sparse_infill_speed": "60",
     "support_bottom_interface_spacing": "0",
@@ -34,10 +34,10 @@
     "support_on_build_plate_only": "1",
     "support_style": "default",
     "support_type": "tree(auto)",
+    "top_shell_layers": "4",
     "top_surface_pattern": "zig-zag",
     "top_surface_speed": "30",
     "travel_speed": "100",
     "version": "2.2.0.4",
-    "wall_loops": "3",
-    "wall_sequence": "inner-outer-inner wall"
+    "wall_loops": "4"
 }
