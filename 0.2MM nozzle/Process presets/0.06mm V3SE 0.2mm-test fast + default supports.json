@@ -36,6 +36,7 @@
     "sparse_infill_pattern": "gyroid",
     "sparse_infill_speed": "60",
     "support_bottom_interface_spacing": "0",
+    "support_bottom_z_distance": "0",
     "support_interface_spacing": "0",
     "support_interface_top_layers": "0",
     "support_object_xy_distance": "0.45",
