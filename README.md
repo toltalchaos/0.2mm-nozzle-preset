@@ -12,7 +12,6 @@ mods on my personal machine:
 
 below are some examples of my results. this may get updated over time
 
-
+![img-0](./ender-halo-like.webp)
 ![img-1](./mini-slicer-settings-v0-h4aleegq9g6e1.webp)
-
 ![img-2](./mini-slicer-settings-v0-ujrazj7q9g6e1.webp)
